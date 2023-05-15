@@ -1,20 +1,26 @@
-
+/*body {
+    background-image: linear-gradient(to right,rgba(2,76,82,255), black, rgba(1,134,139,255),black, rgba(2,76,82,255));
+}*/
 body {
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 .img1 {
     width: 350px;
     height: 400px;
     margin-left: 170px;
-    border-radius: 30px;
-    box-shadow: black 15px 15px 15px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    box-shadow: black 20px 20px 20px;
 }
 .img2 {
-    box-shadow: black 15px 15px 15px;
+  border-style: solid;
+  border-color: white;
+    box-shadow: black 20px 20px 20px;
     width: 350px;
     height: 400px;
     margin-left: 150px;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 .rooms {
@@ -22,29 +28,52 @@ body {
 }
 
 .room1 {
-    margin-left: 160px;
+    margin-left: 150px;
     margin-top: -10px;
+    border: 2px solid #eaeaea;
+  border-radius: 5px;
+  padding: 10px;
+  width: 380px;
+  background-color: black;
 }
 .room2 {
-    margin-left: 670px;
-    margin-top: -355px;
-    margin-bottom: 300px;
+    margin-left: 650px;
+    margin-top: -420px;
+    margin-bottom: 100px;
+    border: 2px solid #eaeaea;
+  border-radius: 5px;
+  padding: 10px;
+  width: 380px;
+  height: 395px;
+  background-color: black;
 }
 .list1 {
     list-style-type: none;
+    color: white;
 }
 .list2 {
     list-style-type: none;
+    color: white;
 }
 
 .text1 {
-    font-size: 30px;
+    font-size: 35px;
     margin-left: 300px;
-    margin-bottom: -70px;
-    margin-top: -50px;
+    margin-bottom: -60px;
+    margin-top: -20px;
+    background-color: black;
+    color: white;
+    width: 120px;
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .text2 {
-    font-size: 30px;
+  background-color: black;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+    color: white;
+    width: 120px;
+    font-size: 35px;
     margin-left: 800px;
 }
 ul li {
