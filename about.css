@@ -1,5 +1,5 @@
 body{
-  background-color: #0e868f;
+  background-image: url(Pics/beach.jpg)
 }
 .end {
   text-align: center;
@@ -10,7 +10,7 @@ body{
   left: 0;
   width: 100%;
   background-color: #0d252f;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .fa {
