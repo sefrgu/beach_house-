@@ -150,6 +150,7 @@ padding: 0 10px;
 float: right;
 margin-top: -490px;
 margin-right: 8px;
+position: relative;
 }
 
 .triangle-right2 {
@@ -162,6 +163,7 @@ padding: 0 10px;
 float: right;
 margin-top: -385px;
 margin-right: -1px;
+position: relative;
 }
 
 .triangle-right3 {
@@ -174,6 +176,7 @@ padding: 0 10px;
 float: right;
 margin-top: -275px;
 margin-right: 8px;
+position: relative;
 }
 
 .fa {
