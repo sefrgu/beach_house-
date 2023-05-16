@@ -2,7 +2,7 @@
     background-image: linear-gradient(to right,rgba(2,76,82,255), black, rgba(1,134,139,255),black, rgba(2,76,82,255));
 }*/
 body {
-    background-color: whitesmoke;
+    background-image: url(Pics/beach.jpg);
 }
 .img1 {
     width: 350px;
@@ -39,7 +39,7 @@ body {
 .room2 {
     margin-left: 650px;
     margin-top: -420px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     border: 2px solid #eaeaea;
   border-radius: 5px;
   padding: 10px;
@@ -75,6 +75,10 @@ body {
     width: 120px;
     font-size: 35px;
     margin-left: 800px;
+}
+
+.text {
+  margin-top: -70px;
 }
 ul li {
     font-size: 20px;
